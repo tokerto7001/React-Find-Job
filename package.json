@@ -19,7 +19,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "proxy": "https://jobs.github.com",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
@@ -41,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://jobs.github.com"
+  "proxy": "https://tokerto7001.github.io/React-Find-Job/"
 }
