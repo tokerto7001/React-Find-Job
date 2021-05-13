@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Find-Job/static/css/main.d2c39ab7.chunk.css",
-    "main.js": "/React-Find-Job/static/js/main.9f4c9459.chunk.js",
-    "main.js.map": "/React-Find-Job/static/js/main.9f4c9459.chunk.js.map",
+    "main.js": "/React-Find-Job/static/js/main.5fb5cc1c.chunk.js",
+    "main.js.map": "/React-Find-Job/static/js/main.5fb5cc1c.chunk.js.map",
     "runtime-main.js": "/React-Find-Job/static/js/runtime-main.df134c73.js",
     "runtime-main.js.map": "/React-Find-Job/static/js/runtime-main.df134c73.js.map",
     "static/js/2.d1c3fec1.chunk.js": "/React-Find-Job/static/js/2.d1c3fec1.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.df134c73.js",
     "static/js/2.d1c3fec1.chunk.js",
     "static/css/main.d2c39ab7.chunk.css",
-    "static/js/main.9f4c9459.chunk.js"
+    "static/js/main.5fb5cc1c.chunk.js"
   ]
 }
