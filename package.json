@@ -2,6 +2,7 @@
   "name": "react-find-job",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tokerto7001.github.io/React-Find-Job/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
@@ -18,7 +19,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "proxy": "https://jobs.github.com"
+    "proxy": "https://jobs.github.com",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
