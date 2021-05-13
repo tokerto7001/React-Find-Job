@@ -28,7 +28,6 @@ function App() {
     axios.get( `/positions.json?description=${description}&location=${location}` )
     .then((res) => {
       setJobList(res.data)
-      console.log(res.data)
     })
     .then(() => setLoading(false) )
     
@@ -55,8 +54,9 @@ function App() {
       {
         loading ?  <img  src={loadingLogo} /> : jobList.length < 1 ? <img className="error" src={error} /> :
     
-      jobList?.map((job) => (
+      jobList?.map((job, index) => (
         <Card 
+        key={index}
         img={job.company_logo}
         title={job.title}
         name={job.company}
