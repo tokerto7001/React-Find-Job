@@ -47,8 +47,8 @@ function App() {
       <h1 className="title" >GITHUB JOB FINDER</h1>
       <div>
         <form onSubmit={handleSubmit}>
-          <input type="text" placeholder="DESCRIPTION" value={description} onChange={(e) => setDescription(e.target.value)} /> <br />
-          <input type="text" placeholder="LOCATION" value={location} onChange={(e) => setLocation(e.target.value)} /> <br />
+          <input type="text" placeholder="DESCRIPTION" value={description} onChange={(e) => setDescription(e.target.value.toUpperCase())} /> <br />
+          <input type="text" placeholder="LOCATION" value={location} onChange={(e) => setLocation(e.target.value.toUpperCase())} /> <br />
           <button className="search">SEARCH</button>
         </form>
       </div>

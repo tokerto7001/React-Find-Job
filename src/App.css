@@ -51,7 +51,8 @@
 }
 input{
   margin-bottom: 15px;
-  line-height: 1.8rem;
+  height: 37px;
+  line-height: 2rem;
   width: 240px;
   border-radius: 5px;
 }
@@ -106,19 +107,9 @@ input{
   border-radius: 10px;
   box-shadow: 3px 3px 20px gray;
   padding-top:15px;
-  
+  border: green 3px solid;
 }
-.card:hover{
-  height:380px;
-  width: 600px;
-  background-color: white;
-  margin: auto;
-  margin-bottom: 40px;
-  border-radius: 10px;
-  box-shadow: 3px 3px 20px gray;
-  padding-top:15px;
-  
-}
+
 .company-logo{
   width: 80px;
   height: 80px;
@@ -127,7 +118,6 @@ input{
   width: 100px;
   height: 100px;
   padding-top:15px;
-  box-shadow: 1px 1px 15px black;
   margin: auto;
   border: none;
 }
@@ -160,7 +150,7 @@ input{
 .apply{
   height: 35px;
   width: 130px;
-  margin-top: 20px;
+  margin-top: 30px;
   border-radius: 10px;
   background-color: #24A0ED;
   color: white;
@@ -171,7 +161,7 @@ input{
 .apply:hover{
   height: 35px;
   width: 130px;
-  margin-top: 20px;
+  margin-top: 30px;
   border-radius: 10px;
   background-color: white;
   color: #24A0ED ;
