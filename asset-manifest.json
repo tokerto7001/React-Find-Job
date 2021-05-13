@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Find-Job/static/css/main.d2c39ab7.chunk.css",
+    "main.js": "/React-Find-Job/static/js/main.9f4c9459.chunk.js",
+    "main.js.map": "/React-Find-Job/static/js/main.9f4c9459.chunk.js.map",
+    "runtime-main.js": "/React-Find-Job/static/js/runtime-main.df134c73.js",
+    "runtime-main.js.map": "/React-Find-Job/static/js/runtime-main.df134c73.js.map",
+    "static/js/2.d1c3fec1.chunk.js": "/React-Find-Job/static/js/2.d1c3fec1.chunk.js",
+    "static/js/2.d1c3fec1.chunk.js.map": "/React-Find-Job/static/js/2.d1c3fec1.chunk.js.map",
+    "static/js/3.b09a9350.chunk.js": "/React-Find-Job/static/js/3.b09a9350.chunk.js",
+    "static/js/3.b09a9350.chunk.js.map": "/React-Find-Job/static/js/3.b09a9350.chunk.js.map",
+    "index.html": "/React-Find-Job/index.html",
+    "static/css/main.d2c39ab7.chunk.css.map": "/React-Find-Job/static/css/main.d2c39ab7.chunk.css.map",
+    "static/js/2.d1c3fec1.chunk.js.LICENSE.txt": "/React-Find-Job/static/js/2.d1c3fec1.chunk.js.LICENSE.txt",
+    "static/media/404.ed881872.png": "/React-Find-Job/static/media/404.ed881872.png",
+    "static/media/design.9f215bce.svg": "/React-Find-Job/static/media/design.9f215bce.svg",
+    "static/media/job-logo.bb022661.svg": "/React-Find-Job/static/media/job-logo.bb022661.svg",
+    "static/media/loading.11562bdd.gif": "/React-Find-Job/static/media/loading.11562bdd.gif",
+    "static/media/octocat.237e2214.png": "/React-Find-Job/static/media/octocat.237e2214.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df134c73.js",
+    "static/js/2.d1c3fec1.chunk.js",
+    "static/css/main.d2c39ab7.chunk.css",
+    "static/js/main.9f4c9459.chunk.js"
+  ]
+}
