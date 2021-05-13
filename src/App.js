@@ -30,7 +30,6 @@ function App() {
       setJobList(res.data)
     })
     .then(() => setLoading(false) )
-    
   }
 
   useEffect(() => {
